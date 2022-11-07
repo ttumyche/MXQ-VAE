@@ -8,8 +8,9 @@ Code for the BMVC 2022 paper:
 ![image](https://user-images.githubusercontent.com/64394696/200154774-49c4221b-2c61-4227-b06d-02922e632c4e.png)
 
 ## Requirements
-
-<!-- pip install -r requirements.txt -->
+~~~
+pip install -r requirements.txt
+~~~
 
 ## Dataset
 #### Caption MNIST
